@@ -1,4 +1,4 @@
-**12-AI-Agents-Collection**
+# **12-AI-Agents-Collection**
 
 This repository contains 12 small, engaging Python "agents" designed for students to learn about the GAME structure and agent loops:
 
