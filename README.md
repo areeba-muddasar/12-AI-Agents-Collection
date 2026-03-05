@@ -13,7 +13,7 @@ E — Environment: Executes tools and returns feedback to the agent loop
 Each agent is a standalone Jupyter Notebook that demonstrates a unique interactive task. These agents are designed for learning, classroom demos, and simple experimentation.
 
 
-📂 ##  **Agents Overview**
+📂 ##**Agents Overview**
 1️⃣ ## **Spin-the-Wheel Study Task Picker**
 
 **Description**: Randomly selects study tasks.
