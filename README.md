@@ -1,4 +1,4 @@
-12-AI-Agents-Collection
+**12-AI-Agents-Collection**
 
 This repository contains 12 small, engaging Python "agents" designed for students to learn about the GAME structure and agent loops:
 
@@ -10,7 +10,7 @@ M — Memory: Small persistent state saved to JSON files
 
 E — Environment: Executes tools and returns feedback to the agent loop
 
-Each agent is a standalone Jupyter Notebook, demonstrating a unique interactive task. These agents are designed for learning, classroom demos, and simple experimentation.
+Each agent is a standalone Jupyter Notebook that demonstrates a unique interactive task. These agents are designed for learning, classroom demos, and simple experimentation.
 
 
 📂 **Agents Overview**
@@ -22,7 +22,7 @@ Each agent is a standalone Jupyter Notebook, demonstrating a unique interactive 
 
 Add/remove tasks during runtime
 
-Difficulty tags: easy / medium / hard
+Difficulty tags: easy/medium/hard
 
 Small leaderboard of most-picked tasks
 
@@ -32,11 +32,11 @@ Small leaderboard of most-picked tasks
 
 **Updates**:
 
-Countdown timer (demo mode can shorten)
+Countdown timer (demo mode can be shortened)
 
 Students can add their own rescue scripts
 
-Show best success-rate script
+Show the best success-rate script
 
 3️⃣ **Daily Streak Agent**
 
