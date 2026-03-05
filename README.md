@@ -13,12 +13,12 @@ E — Environment: Executes tools and returns feedback to the agent loop
 Each agent is a standalone Jupyter Notebook, demonstrating a unique interactive task. These agents are designed for learning, classroom demos, and simple experimentation.
 
 
-📂 Agents Overview
-1️⃣ Spin-the-Wheel Study Task Picker
+📂 **Agents Overview**
+1️⃣ **Spin-the-Wheel Study Task Picker**
 
-Description: Randomly selects study tasks.
+**Description**: Randomly selects study tasks.
 
-Updates:
+**Updates**:
 
 Add/remove tasks during runtime
 
@@ -26,11 +26,11 @@ Difficulty tags: easy / medium / hard
 
 Small leaderboard of most-picked tasks
 
-2️⃣ 2-Minute Rescue Agent
+2️⃣ **2-Minute Rescue Agent**
 
-Description: Perform quick rescue operations in a simulation.
+**Description**: Perform quick rescue operations in a simulation.
 
-Updates:
+**Updates**:
 
 Countdown timer (demo mode can shorten)
 
@@ -38,11 +38,11 @@ Students can add their own rescue scripts
 
 Show best success-rate script
 
-3️⃣ Daily Streak Agent
+3️⃣ **Daily Streak Agent**
 
-Description: Tracks daily activity streaks.
+**Description**: Tracks daily activity streaks.
 
-Updates:
+**Updates**:
 
 Save minutes spent
 
@@ -50,11 +50,11 @@ Weekly summary
 
 Reward messages at milestones
 
-4️⃣ One Line Quiz Agent (No Answer Key)
+4️⃣ **One Line Quiz Agent**
 
-Description: Quick quiz agent for single-line questions.
+**Description**: Quick quiz agent for single-line questions.
 
-Updates:
+**Updates**:
 
 Add confidence rating
 
@@ -62,11 +62,11 @@ Export results to CSV
 
 Additional topics
 
-5️⃣ Flashcard Drill Agent
+5️⃣ **Flashcard Drill Agent**
 
-Description: Spaced repetition for learning flashcards.
+**Description**: Spaced repetition for learning flashcards.
 
-Updates:
+**Updates**:
 
 Students can add cards via input
 
@@ -74,11 +74,11 @@ Topics and filtering
 
 Simple spaced repetition
 
-6️⃣ Notes Cleaner Agent
+6️⃣ **Notes Cleaner Agent**
 
-Description: Cleans and formats notes into structured output.
+**Description**: Cleans and formats notes into structured output.
 
-Updates:
+**Updates**:
 
 Detect headings (with ':') and convert to Markdown
 
@@ -86,11 +86,11 @@ Timestamped output files
 
 Summary template section
 
-7️⃣ Bug Hunt Bingo Agent
+7️⃣ **Bug Hunt Bingo Agent**
 
-Description: Gamified bug detection using a bingo-style card.
+**Description**: Gamified bug detection using a bingo-style card.
 
-Updates:
+**Updates**:
 
 Detect Bingo (row/col/diag) and celebrate
 
@@ -98,11 +98,11 @@ Students can customize bug list
 
 Export card to a text file
 
-8️⃣ Tiny Mentor Agent
+8️⃣ **Tiny Mentor Agent**
 
-Description: Simple mentorship and challenge agent.
+**Description**: Simple mentorship and challenge agent.
 
-Updates:
+**Updates**:
 
 Modes: strict / friendly / QA
 
@@ -110,11 +110,11 @@ Streak counter
 
 Students can add custom challenges
 
-9️⃣ Reminder Agent
+9️⃣ **Reminder Agent**
 
-Description: Multi-reminder management tool.
+**Description**: Multi-reminder management tool.
 
-Updates:
+**Updates**:
 
 Multiple reminders in a list
 
@@ -122,11 +122,11 @@ Status command
 
 Reminder logs
 
-🔟 Decision Agent (A/B Chooser)
+🔟 **Decision Agent**
 
-Description: Helps make decisions between options.
+**Description**: Helps make decisions between options.
 
-Updates:
+**Updates**:
 
 Add a third option
 
@@ -134,11 +134,11 @@ Confidence rating
 
 Review last decision
 
-1️⃣1️⃣ Assignment Breakdown Agent
+1️⃣1️⃣ **Assignment Breakdown Agent**
 
-Description: Breaks assignments into manageable parts.
+**Description**: Breaks assignments into manageable parts.
 
-Updates:
+**Updates**:
 
 Ask for available time and adapt plan
 
@@ -146,11 +146,11 @@ Export to Markdown
 
 Review last plan
 
-1️⃣2️⃣ Q/A Ticket Agent
+1️⃣2️⃣ **Q/A Ticket Agent**
 
-Description: Manages Q/A tickets efficiently.
+**Description**: Manages Q/A tickets efficiently.
 
-Updates:
+**Updates**:
 
 Save each ticket as its own text file
 
@@ -158,9 +158,9 @@ Add urgency field
 
 Share-ready formatting
 
-⚡ Features Across Agents
+**Features Across Agents**
 
-Simple Python functions to simulate agent decide → act → observe → repeat loop
+Simple Python functions to simulate an agent decide → act → observe → repeat loop
 
 Minimal coding for quick learning and experimentation
 
